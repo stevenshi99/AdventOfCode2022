@@ -1,0 +1,1118 @@
+line is 2154
+line is 4820
+line is 5582
+line is 6148
+line is 1783
+line is 5067
+line is 1673
+line is 1036
+line is 2244
+line is 2363
+line is 4640
+line is 2660
+line is 1118
+line is 3965
+line is 3991
+line is 3150
+line is 5310
+line is 8961
+total is 66665 max is 66665
+line is 2340
+line is 3750
+line is 1564
+line is 7198
+line is 5522
+total is 20374 max is 66665
+line is 3737
+line is 2219
+line is 2873
+line is 3044
+line is 2640
+line is 1946
+line is 7792
+line is 2608
+line is 3812
+line is 5730
+line is 2785
+total is 39186 max is 66665
+line is 14133
+line is 32925
+line is 31033
+line is 7793
+line is 3042
+line is 7160
+line is 6251
+line is 7489
+total is 109826 max is 109826
+line is 7643
+line is 3857
+line is 7619
+line is 8489
+line is 8447
+line is 1100
+line is 9151
+line is 6579
+line is 9223
+total is 62108 max is 109826
+line is 4166
+line is 7394
+line is 5777
+line is 1164
+line is 4040
+line is 1986
+line is 3920
+line is 1982
+line is 2852
+line is 5758
+total is 39039 max is 109826
+line is 10579
+line is 9117
+line is 10259
+line is 1120
+total is 31075 max is 109826
+line is 16409
+total is 16409 max is 109826
+line is 5793
+line is 5873
+line is 11491
+line is 1793
+line is 21194
+total is 46144 max is 109826
+line is 4113
+line is 7777
+line is 4349
+line is 8046
+line is 2934
+total is 27219 max is 109826
+line is 22405
+line is 3978
+line is 16656
+total is 43039 max is 109826
+line is 4198
+line is 5691
+line is 7596
+line is 7557
+line is 3796
+total is 28838 max is 109826
+line is 1321
+line is 8966
+line is 3168
+line is 2025
+line is 2981
+line is 5499
+line is 1548
+line is 5794
+line is 6393
+line is 3611
+total is 41306 max is 109826
+line is 2894
+line is 7277
+line is 3123
+line is 1023
+line is 6054
+line is 2877
+line is 4862
+line is 3692
+line is 6712
+line is 7198
+line is 1548
+total is 47260 max is 109826
+line is 19782
+total is 19782 max is 109826
+line is 11522
+line is 1220
+line is 1860
+line is 3595
+line is 5099
+line is 5828
+line is 5249
+line is 3129
+line is 2298
+total is 39800 max is 109826
+line is 4139
+line is 3495
+line is 9025
+line is 2254
+line is 20903
+total is 39816 max is 109826
+line is 3131
+line is 9099
+line is 2730
+line is 4350
+line is 61041
+total is 80351 max is 109826
+line is 6746
+line is 2503
+line is 5988
+line is 1652
+line is 4348
+line is 1982
+line is 4090
+line is 6586
+line is 8733
+line is 5132
+line is 2548
+total is 50308 max is 109826
+line is 6803
+line is 4281
+line is 1566
+line is 3029
+line is 4459
+line is 4104
+total is 24242 max is 109826
+line is 13187
+line is 6804
+line is 4002
+line is 6528
+line is 5247
+line is 2951
+line is 4237
+line is 9223
+line is 12087
+line is 9441
+line is 5465
+line is 8692
+line is 11295
+total is 99159 max is 109826
+line is 17909
+line is 3418
+line is 5056
+line is 5994
+line is 4612
+line is 6783
+line is 4666
+line is 5492
+total is 53930 max is 109826
+line is 4692
+line is 1799
+line is 3531
+line is 2612
+line is 3298
+line is 4609
+line is 1787
+line is 2569
+line is 3770
+line is 3144
+line is 6248
+line is 4674
+line is 4926
+line is 6814
+line is 1517
+line is 6726
+line is 4728
+line is 6343
+line is 4081
+line is 3555
+total is 81423 max is 109826
+line is 5809
+line is 7025
+line is 1102
+line is 5769
+line is 3105
+line is 1836
+line is 5583
+line is 2558
+line is 3541
+line is 2474
+line is 3368
+line is 4684
+line is 7804
+line is 8889
+line is 6981
+total is 70528 max is 109826
+line is 4039
+line is 2628
+line is 3427
+line is 5138
+line is 4216
+line is 5629
+line is 42033
+total is 67110 max is 109826
+line is 3821
+line is 4265
+line is 5218
+line is 1816
+line is 3577
+line is 1068
+line is 1614
+line is 1894
+total is 23273 max is 109826
+line is 3088
+line is 2293
+line is 5129
+line is 3982
+line is 2252
+line is 5800
+line is 5351
+line is 10195
+line is 9105
+line is 4126
+line is 1905
+line is 1956
+line is 3559
+line is 2447
+line is 1478
+line is 5595
+line is 3749
+total is 72010 max is 109826
+line is 2495
+line is 5261
+line is 6858
+line is 5540
+line is 6596
+line is 3161
+line is 5011
+line is 8709
+line is 6889
+line is 8855
+total is 59375 max is 109826
+line is 5863
+line is 9019
+line is 2978
+total is 17860 max is 109826
+line is 13081
+line is 3791
+total is 16872 max is 109826
+line is 1319
+line is 6087
+line is 5230
+line is 1690
+line is 6775
+line is 2166
+line is 6571
+line is 3259
+line is 5084
+line is 10744
+line is 5693
+line is 3911
+line is 3996
+line is 1248
+line is 3169
+line is 4885
+line is 6175
+total is 78002 max is 109826
+line is 1656
+line is 3801
+line is 2015
+line is 1313
+line is 5344
+line is 3269
+line is 6851
+line is 1254
+line is 3039
+line is 2624
+line is 3214
+line is 7036
+line is 2469
+total is 43885 max is 109826
+line is 21131
+line is 3789
+line is 2709
+line is 5734
+line is 3180
+line is 1719
+line is 1747
+line is 3642
+line is 2035
+total is 45686 max is 109826
+line is 6149
+line is 2176
+line is 2191
+line is 2498
+line is 7297
+line is 1920
+line is 4661
+line is 1639
+line is 4552
+line is 1804
+line is 2515
+line is 3062
+line is 6532
+line is 3061
+line is 1284
+total is 51341 max is 109826
+line is 9961
+line is 3247
+line is 5775
+total is 18983 max is 109826
+line is 5478
+line is 5508
+line is 5950
+line is 1425
+line is 2823
+line is 2901
+total is 24085 max is 109826
+line is 4417
+line is 3120
+line is 1237
+line is 5554
+line is 1711
+line is 3088
+line is 17031
+line is 7350
+total is 43508 max is 109826
+line is 2498
+line is 2890
+line is 2814
+line is 2429
+line is 1373
+line is 3256
+line is 2567
+line is 7072
+line is 14586
+line is 10147
+total is 49632 max is 109826
+line is 3671
+line is 4184
+line is 5838
+line is 2264
+line is 19812
+line is 5892
+line is 3585
+line is 6955
+line is 1920
+line is 2635
+line is 1546
+line is 3259
+total is 61561 max is 109826
+line is 7240
+line is 7841
+line is 1359
+line is 8041
+line is 5615
+total is 30096 max is 109826
+line is 4732
+line is 2584
+line is 7544
+line is 7146
+line is 6427
+line is 12827
+line is 5345
+total is 46605 max is 109826
+line is 4904
+line is 8150
+line is 5226
+line is 4964
+line is 6726
+line is 3801
+line is 4667
+line is 6152
+line is 11010
+line is 3939
+line is 10977
+line is 6235
+line is 1240
+line is 2883
+line is 3590
+line is 2287
+line is 1450
+line is 4195
+line is 6159
+line is 1417
+line is 3714
+line is 7677
+total is 111363 max is 111363
+line is 4734
+line is 4799
+line is 5785
+line is 3461
+line is 2188
+line is 3154
+line is 5131
+total is 29252 max is 111363
+line is 7706
+line is 5051
+line is 5707
+line is 1667
+line is 8255
+total is 28386 max is 111363
+line is 2506
+line is 4862
+line is 3311
+line is 4483
+line is 2931
+line is 6267
+total is 24360 max is 111363
+line is 2285
+line is 1997
+line is 2619
+line is 5356
+line is 1492
+line is 2372
+line is 3114
+line is 9829
+line is 2994
+line is 7307
+line is 9188
+line is 7227
+line is 2321
+total is 58101 max is 111363
+line is 4316
+line is 4449
+line is 8549
+line is 2389
+total is 19703 max is 111363
+line is 4051
+line is 5450
+line is 5380
+line is 1497
+line is 2911
+line is 6228
+line is 4164
+total is 29681 max is 111363
+line is 2696
+line is 5228
+line is 8066
+line is 6316
+line is 5800
+line is 3827
+line is 1059
+line is 4913
+line is 6344
+line is 4670
+line is 5839
+line is 1847
+total is 56605 max is 111363
+line is 10069
+line is 5072
+line is 10051
+line is 2607
+line is 1825
+line is 8017
+line is 16412
+line is 1854
+line is 1571
+line is 5496
+line is 2448
+line is 1109
+line is 4157
+line is 5701
+line is 3679
+line is 4301
+line is 1830
+line is 7923
+line is 9182
+line is 6162
+line is 6176
+line is 2406
+total is 118048 max is 118048
+line is 6540
+line is 3970
+line is 1340
+line is 2276
+line is 2848
+total is 16974 max is 118048
+line is 3110
+line is 5670
+line is 2571
+line is 2451
+line is 4318
+line is 4566
+line is 4223
+line is 4537
+line is 11104
+line is 1978
+line is 4207
+total is 48735 max is 118048
+line is 5373
+line is 3672
+line is 5693
+line is 1318
+line is 6497
+line is 4812
+line is 4013
+line is 3679
+line is 4541
+line is 2013
+line is 1089
+line is 5174
+line is 2476
+line is 4038
+total is 54388 max is 118048
+line is 3774
+line is 2578
+line is 5082
+line is 4640
+line is 4796
+line is 13289
+line is 4915
+line is 4991
+line is 1861
+line is 9064
+line is 9014
+line is 3804
+line is 9220
+total is 77028 max is 118048
+line is 4467
+line is 5711
+line is 4787
+line is 3270
+line is 3723
+line is 3557
+line is 1133
+total is 26648 max is 118048
+line is 26240
+total is 26240 max is 118048
+line is 11450
+line is 23519
+total is 34969 max is 118048
+line is 7702
+line is 4930
+line is 4819
+line is 1175
+line is 2818
+total is 21444 max is 118048
+line is 17505
+line is 5350
+line is 3740
+line is 5707
+line is 1216
+line is 2666
+line is 1938
+line is 5828
+line is 7265
+line is 11224
+line is 13248
+line is 9488
+line is 6103
+line is 8562
+line is 1375
+line is 1831
+line is 4237
+line is 4861
+line is 1128
+line is 4340
+line is 6247
+line is 8584
+line is 9026
+line is 1936
+line is 9534
+line is 9577
+total is 162516 max is 162516
+line is 5403
+line is 3151
+line is 6238
+line is 3153
+line is 2507
+line is 24170
+line is 10089
+line is 8807
+line is 6865
+line is 11707
+line is 12186
+line is 6848
+total is 101124 max is 162516
+line is 4350
+line is 1658
+line is 1318
+line is 2357
+line is 6596
+line is 5834
+line is 4541
+line is 8154
+line is 6441
+line is 5632
+line is 3044
+total is 49925 max is 162516
+line is 21759
+line is 2297
+line is 5189
+line is 1784
+line is 1710
+line is 4919
+line is 3875
+line is 1189
+line is 4591
+total is 47313 max is 162516
+line is 2725
+line is 7249
+line is 5208
+line is 2246
+line is 3208
+line is 2344
+total is 22980 max is 162516
+line is 1438
+line is 4962
+line is 3306
+line is 2955
+line is 3920
+line is 3218
+line is 5534
+line is 6900
+line is 11170
+line is 7355
+line is 1038
+line is 9232
+line is 8587
+line is 4064
+line is 6287
+line is 4660
+line is 2192
+line is 2320
+line is 2270
+line is 4081
+total is 95489 max is 162516
+line is 11660
+total is 11660 max is 162516
+line is 6337
+line is 1837
+line is 1694
+line is 3233
+line is 6009
+line is 6609
+line is 4657
+total is 30376 max is 162516
+line is 7711
+line is 4405
+line is 2762
+line is 7733
+line is 2982
+total is 25593 max is 162516
+line is 12749
+line is 2756
+line is 7631
+line is 6105
+line is 4164
+line is 7604
+line is 4003
+total is 45012 max is 162516
+line is 5369
+line is 7812
+line is 1015
+line is 8312
+line is 4738
+line is 15129
+line is 10208
+line is 64834
+total is 117417 max is 162516
+line is 20735
+line is 20179
+total is 40914 max is 162516
+line is 9239
+line is 8133
+line is 1360
+line is 4443
+total is 23175 max is 162516
+line is 5287
+line is 8366
+line is 6700
+line is 4207
+total is 24560 max is 162516
+line is 1089
+line is 2097
+line is 8741
+line is 1298
+line is 5218
+line is 4398
+line is 3133
+line is 8203
+line is 9992
+line is 3425
+line is 5741
+line is 8651
+line is 3812
+total is 65798 max is 162516
+line is 4962
+line is 7543
+line is 4316
+line is 4957
+line is 8166
+total is 29944 max is 162516
+line is 4240
+line is 5851
+line is 4494
+line is 5055
+line is 5237
+line is 6899
+line is 5252
+line is 5621
+line is 7932
+line is 8221
+line is 2642
+total is 61444 max is 162516
+line is 8125
+line is 10040
+line is 1559
+total is 19724 max is 162516
+line is 4189
+line is 8045
+line is 13228
+total is 25462 max is 162516
+line is 1661
+line is 5058
+line is 3350
+line is 2875
+line is 1043
+line is 3145
+line is 10789
+line is 1519
+line is 7658
+line is 11042
+total is 48140 max is 162516
+line is 25095
+line is 3620
+line is 2143
+line is 2209
+line is 6291
+line is 4258
+line is 5973
+line is 1690
+total is 51279 max is 162516
+line is 6472
+line is 3595
+line is 2802
+line is 5303
+line is 5980
+total is 24152 max is 162516
+line is 11749
+line is 11281
+line is 6081
+line is 9589
+total is 38700 max is 162516
+line is 1683
+line is 1782
+line is 1239
+line is 1829
+line is 4154
+line is 4039
+line is 5072
+line is 5498
+line is 1591
+line is 2076
+line is 5165
+line is 8679
+total is 42807 max is 162516
+line is 35217
+total is 35217 max is 162516
+line is 6374
+line is 2104
+line is 5451
+line is 2991
+line is 6377
+line is 3235
+line is 4950
+line is 5384
+line is 2112
+line is 1158
+line is 4894
+line is 5480
+line is 8198
+line is 2116
+line is 3134
+total is 63958 max is 162516
+line is 1059
+line is 5498
+line is 4585
+line is 1442
+line is 2529
+line is 1540
+total is 16653 max is 162516
+line is 17318
+line is 67758
+total is 85076 max is 162516
+line is 3641
+line is 8275
+line is 1945
+total is 13861 max is 162516
+line is 3110
+line is 6258
+line is 5424
+line is 3827
+line is 1847
+line is 7045
+total is 27511 max is 162516
+line is 4223
+line is 5845
+line is 1658
+line is 2456
+line is 3991
+line is 4503
+total is 22676 max is 162516
+line is 6780
+total is 6780 max is 162516
+line is 17143
+line is 15617
+total is 32760 max is 162516
+line is 5973
+line is 2404
+line is 5263
+line is 6483
+line is 6030
+line is 2206
+line is 6168
+total is 34527 max is 162516
+line is 7729
+line is 5537
+line is 3436
+line is 7202
+line is 2660
+line is 1256
+line is 6588
+line is 11142
+line is 1867
+total is 47417 max is 162516
+line is 3043
+line is 2667
+line is 6070
+line is 6459
+line is 1984
+line is 2181
+line is 4355
+line is 6495
+line is 3262
+line is 4560
+line is 1892
+line is 1276
+line is 5883
+line is 5508
+line is 1030
+line is 3657
+line is 5975
+line is 2266
+line is 7182
+total is 75745 max is 162516
+line is 4023
+line is 3276
+line is 4466
+line is 5358
+line is 3410
+line is 5900
+line is 1312
+total is 27745 max is 162516
+line is 7495
+line is 1390
+line is 2477
+line is 4165
+line is 1034
+line is 2474
+line is 2810
+line is 2742
+line is 3315
+line is 5077
+line is 4451
+line is 3126
+line is 3823
+total is 44379 max is 162516
+line is 7922
+line is 5624
+line is 7311
+line is 15693
+line is 14621
+line is 5178
+total is 56349 max is 162516
+line is 3381
+line is 4254
+line is 6735
+line is 3583
+line is 2701
+line is 6047
+line is 3184
+line is 1776
+line is 4756
+line is 4733
+line is 3399
+total is 44549 max is 162516
+line is 1556
+line is 5927
+line is 4077
+line is 4879
+line is 2610
+line is 1682
+line is 10994
+line is 2315
+line is 11296
+total is 45336 max is 162516
+line is 4378
+line is 8424
+line is 1346
+total is 14148 max is 162516
+line is 5808
+line is 3310
+line is 5480
+line is 2085
+line is 3286
+line is 3996
+line is 2367
+line is 5204
+line is 2965
+line is 24055
+line is 11158
+line is 13660
+line is 10202
+total is 93576 max is 162516
+line is 4788
+line is 7859
+line is 2695
+line is 1651
+line is 4647
+line is 5356
+line is 5279
+line is 4523
+line is 7243
+line is 7604
+line is 3415
+line is 7325
+line is 7012
+total is 69397 max is 162516
+line is 6269
+line is 6615
+line is 7453
+line is 5074
+line is 7098
+line is 6796
+total is 39305 max is 162516
+line is 4908
+line is 2580
+line is 2243
+line is 5507
+line is 5024
+line is 3177
+line is 3455
+total is 26894 max is 162516
+line is 1786
+line is 4178
+line is 1208
+line is 4479
+line is 4882
+line is 3857
+line is 5319
+total is 25709 max is 162516
+line is 14031
+line is 1921
+line is 5635
+line is 10360
+line is 4863
+line is 2442
+line is 12686
+total is 51938 max is 162516
+line is 5926
+line is 5775
+line is 7024
+line is 6641
+line is 5609
+line is 2347
+total is 33322 max is 162516
+line is 2485
+line is 5340
+line is 1952
+line is 2246
+line is 6093
+line is 3193
+line is 5291
+line is 2585
+line is 5259
+line is 2722
+line is 4990
+line is 5620
+line is 2420
+line is 1598
+line is 8717
+line is 8729
+line is 1479
+line is 5887
+line is 5108
+line is 3171
+line is 3700
+line is 5500
+line is 2407
+line is 4278
+line is 2098
+line is 2301
+line is 2267
+total is 107436 max is 162516
+line is 5166
+line is 1190
+line is 1562
+line is 2126
+line is 4176
+line is 2921
+line is 5640
+line is 11346
+line is 12510
+line is 11673
+line is 3029
+line is 4235
+line is 2645
+line is 6585
+line is 5350
+line is 1793
+line is 4684
+total is 86631 max is 162516
+line is 6848
+line is 5192
+line is 4863
+line is 2116
+line is 2428
+line is 5454
+line is 7695
+line is 4466
+line is 8098
+line is 6464
+line is 3183
+line is 5863
+line is 10072
+line is 9577
+line is 5975
+line is 1443
+line is 7142
+line is 1032
+line is 4362
+line is 1339
+line is 1322
+total is 104934 max is 162516
+line is 14613
+line is 16363
+total is 30976 max is 162516
+line is 1645
+line is 7384
+line is 11876
+line is 2886
+line is 17062
+total is 40853 max is 162516
+line is 5571
+line is 2730
+line is 5853
+line is 6827
+line is 1437
+line is 3271
+total is 25689 max is 162516
+line is 1889
+line is 1468
+line is 3477
+line is 3164
+line is 6696
+total is 16694 max is 162516
+line is 4877
+line is 3096
+line is 12716
+line is 11278
+line is 5418
+line is 5334
+line is 10651
+line is 11469
+total is 64839 max is 162516
+line is 7969
+line is 3250
+line is 5563
+line is 7091
+line is 1092
+line is 6222
+line is 6713
+line is 2551
+line is 3413
+line is 6511
+line is 4365
+line is 6568
+line is 5450
+line is 3588
+line is 4931
+total is 75277 max is 162516
+line is 19019
+total is 19019 max is 162516
+line is 8198
+line is 11115
+line is 2383
+total is 21696 max is 162516
+line is 7551
+line is 6217
+line is 1445
