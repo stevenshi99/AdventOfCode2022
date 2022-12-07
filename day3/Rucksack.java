@@ -19,9 +19,7 @@ public class Rucksack {
         for(char i = 'A'; i <= 'Z'; ++i) {
             hashMap.put(i, amount++);
         }
-        // for(char x : hashMap.keySet()) {
-        //     System.out.println(x + " " + hashMap.get(x));
-        // }
+
         int total = 0;
         List<Character> firstHalf = new ArrayList<>();
         List<Character> secondHalf = new ArrayList<>();
