@@ -9,11 +9,16 @@ import java.util.Stack;
 
 public class Boxes {
     public static String findTop() {
-        int total = 0;
+        String ret = "";
         try {
             Scanner scanner = new Scanner(new File("day5/input.txt"));
             HashMap<Integer, Stack<Character>> map = new HashMap<>(); 
             Stack<Character> list = new Stack<Character>();
+
+            // list.push('Z');
+            // list.push('N');
+            // map.put
+
             list.push('H');
             list.push('C');
             list.push('R');
@@ -108,15 +113,28 @@ public class Boxes {
 
             while(scanner.hasNextLine()) {
                 String line = scanner.nextLine();
-                String[] words = line.split(" ");
-                Stack<Character> current = (Stack<Character>) map.get(words[1]).clone();
-                current = 
-            }
+                String[] words = line.split(" "); // move x from y to z
+                int amount = Integer.parseInt(words[1]);
+                int fromIndex = Integer.parseInt(words[3]);
+                Stack<Character> from = (Stack<Character>) map.get(fromIndex).clone();
 
+                int toIndex = Integer.parseInt(words[5]);
+                Stack<Character> to = (Stack<Character>) map.get(toIndex).clone();
+
+                for(int i = 0 ; i < amount; ++i) {
+                    char c = from.pop();
+                    to.push(c);
+                }
+                map.put(fromIndex, from);
+                map.put(toIndex, to);
+            }
+            for(int k : map.keySet()) {
+                ret += map.get(k).pop();
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return "";
+        return ret;
     }
     public static void main(String[] args) {
         System.out.println(findTop());
